@@ -3,4 +3,5 @@ const person = {
     age: 30
 };
 
+// Added a comment
 console.log(person);
