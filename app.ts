@@ -6,4 +6,4 @@ function printResult(num: number): void {
     console.log("Result : ", num);
 }
 
-addition(10, 15);
+printResult(addition(10, 15));

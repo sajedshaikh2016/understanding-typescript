@@ -4,4 +4,4 @@ function addition(n1, n2) {
 function printResult(num) {
     console.log("Result : ", num);
 }
-addition(10, 15);
+printResult(addition(10, 15));
